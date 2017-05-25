@@ -59,3 +59,26 @@ h1 {
 	color: #ffffff;
 }
 
+.main-content {
+	background-color: #DEBA6F;
+	padding: 70px;
+	margin: 50px;
+	text-align: justify;
+	font-family: cursive;
+
+	/*background-image: url("../images/scroll.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	display: block;*/
+}
+
+.img-50 {
+	width: 50%;
+	display: block;
+	margin: auto;
+
+}
+
+
+
+
