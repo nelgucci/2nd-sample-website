@@ -144,7 +144,9 @@ input[type=submit] {
 
 }
 
+
 input[type=submit]:hover {
+
     background-color: #45a049;}
 
  form {
@@ -155,6 +157,12 @@ input[type=submit]:hover {
     padding: 20px;
     background-image: url("../images/violin.jpeg");
 }
+.col-1-4{
+	border-style: inset;
+  	float:left;
+  	width:21%;
+  	padding:10px;
+  	margin:1%;
 /*================================tables=================================*/
 /*input[type=text], select {
     width: 100%;
